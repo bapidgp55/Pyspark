@@ -1,0 +1,1 @@
+Property_ID|Location|Price|Bedrooms|Bathrooms|Size|Price_SQ_FT|Status|1461262|Arroyo Grande|795000|3|3|2371|365.3|Short Sale|1478004|Paulo Pablo|399000|4|3|2818|163.59|Short Sale|1486551|Paulo Pablo|545000|4|3|3032|179.75|Short Sale|1492832|Santa Bay|909000|4|4|3540|286.78|Short Sale
